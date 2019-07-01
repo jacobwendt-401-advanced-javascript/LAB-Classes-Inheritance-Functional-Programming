@@ -1,17 +1,6 @@
 'use strict';
 
-const Vehicle = function(name, wheels) {
-  this.name = name;
-  this.wheels = wheels;
-};
-
-Vehicle.prototype.drive = () => {
-  return 'Moving Forward';
-};
-
-Vehicle.prototype.stop = () => {
-  return 'Stopping';
-};
+const { Vehicle } = require("./Vehicle");
 
 // Car Constructor
 const Car = function(name) {

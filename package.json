@@ -1,0 +1,19 @@
+{
+  "name": "lab-classes-inheritance-functional-programming",
+  "version": "1.0.0",
+  "description": "Refer to *Getting Started* in the [lab submission instructions](../../../reference/submission-instructions/labs/README.md) for complete setup instructions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobwendt-401-advanced-javascript/LAB-Classes-Inheritance-Functional-Programming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobwendt-401-advanced-javascript/LAB-Classes-Inheritance-Functional-Programming/issues"
+  },
+  "homepage": "https://github.com/jacobwendt-401-advanced-javascript/LAB-Classes-Inheritance-Functional-Programming#readme"
+}
